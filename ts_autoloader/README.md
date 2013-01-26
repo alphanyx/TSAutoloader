@@ -13,7 +13,7 @@ This Setting is looking for all files with the ending .ts (`*.ts`) in the direct
 
 All files excepting the ones in the ignore schema (comma separated) will be loaded
 
-All Typoscript files with the ending .ts, excepting the ones that start with an underscore and the file "*test.ts*"
+All Typoscript files with the ending .ts, excepting the ones that start with an underscore and the file "test.ts"
 
 	plugin.tx_tsautoload {
 		1 {
